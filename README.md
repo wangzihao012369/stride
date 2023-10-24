@@ -10,7 +10,7 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/stride3d/stride?color=ee8449)](#contributors)
 [![Financial sponsors](https://img.shields.io/opencollective/all/stride3d?logo=opencollective)](https://opencollective.com/stride3d)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/stride3d/stride/blob/master/LICENSE.md)
-https://doc.stride3d.net/latest/en/manual/index.html
+
 Welcome to the Stride source code repository!
 
 Stride is an open-source C# game engine for realistic rendering and VR. 
@@ -20,7 +20,7 @@ Stride comes with an editor that allows you to create and manage the content of 
 ![Stride Editor](https://stride3d.net/images/external/script-editor.png)
 
 To learn more about Stride, visit [stride3d.net](https://stride3d.net/).
-
+>https://doc.stride3d.net/latest/en/manual/index.html
 ## License and governance
 ### .NET Foundation
 This project is supported by the [.NET Foundation](https://dotnetfoundation.org).
